@@ -3,9 +3,9 @@
 
 <div align="left">
  
- 🇧🇷 Sou desenvolver e estudante, comecei com programação no início do meu ensino médio (2020)
+ 🇧🇷 Sou desenvolvedor e estudante, comecei com programação no início do meu ensino médio (2020)
  
- 📚 Estou cursando superior em Tecnologia em Sistemas para Internet no Instituto Federal, campus Araraquara
+ 📚 Estou cursando Tecnologia em Sistemas para Internet no Instituto Federal, campus Araraquara
 
  ⚡ Busco sempre **superar-me**
 
