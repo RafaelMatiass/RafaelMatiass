@@ -21,7 +21,7 @@
 <br/>
 <div align="center">
   <a href="https://github.com/rafaelmatiass">
-<!--     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelmatiass&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/> -->
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelmatiass&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmatiass&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
@@ -29,7 +29,8 @@
 ## 🛠 &nbsp;Tech Stack
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,c,java,javascript,typescript,nextjs,nestjs,git,prisma,python,tailwind,mysql,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,c,java,javascript,typescript,python,tailwind,react,nodejs" />
+<!--     nextjs,nestjs,prisma,mysql,git -->
 </div>
 
 ## 🐍 Contribuições 
