@@ -1,13 +1,9 @@
-<h1 align="left">Fala Dev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, me chamem de Rafa!</h1>
+<h1 align="left">Fala Dev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> me chamem de Rafa!</h1>
 <h3 align="left"> </h3>
 
 <div align="left">
  
- 🇧🇷 Sou desenvolvedor e estudante, comecei com programação no início do meu ensino médio (2020)
- 
- 📚 Estou cursando Tecnologia em Sistemas para Internet no Instituto Federal, campus Araraquara
-
- ⚡ Busco sempre **superar-me**
+ 📚 Cursando Tecnologia em Sistemas para Internet no Instituto Federal, campus Araraquara
 
  🚀 Construindo um futuro mais tecnológico
  </div>
